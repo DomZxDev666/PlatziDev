@@ -1,0 +1,119 @@
+<mxfile host="Electron" modified="2023-10-17T20:56:36.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="tZGvD_Z5ejIz9hH1Lyia" version="22.0.2" type="device">
+  <diagram name="Page-1" id="L1QBOJ219bwwhYEuZYfi">
+    <mxGraphModel dx="1122" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-1" target="OyTFGZdnnPIG9FxTgaTx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-4" target="OyTFGZdnnPIG9FxTgaTx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-4" value="Ingresar User" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-6" target="OyTFGZdnnPIG9FxTgaTx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-6" value="Ingresar Password" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-4" target="OyTFGZdnnPIG9FxTgaTx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-17" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-9" target="OyTFGZdnnPIG9FxTgaTx-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-9" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Se escribieron los datos?&lt;/font&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-21" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-18" target="OyTFGZdnnPIG9FxTgaTx-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-23" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-18" target="OyTFGZdnnPIG9FxTgaTx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-18" value="Esta correcto el User?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-20" value="Usuario no existe" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-34" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-22" target="OyTFGZdnnPIG9FxTgaTx-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-42" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-22" target="OyTFGZdnnPIG9FxTgaTx-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-22" value="Esta correcto el Password?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="545" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-26" value="Escribe los datos de ingreso" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="710" as="sourcePoint" />
+            <mxPoint x="170" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="585" />
+              <mxPoint x="480" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-33" target="OyTFGZdnnPIG9FxTgaTx-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-33" value="Ha ingresado a su cuenta" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-35" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="770" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-33" target="OyTFGZdnnPIG9FxTgaTx-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-52" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-41" target="OyTFGZdnnPIG9FxTgaTx-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-41" value="Olvido Su Password?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="545" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-43" value="No" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OyTFGZdnnPIG9FxTgaTx-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="510" as="sourcePoint" />
+            <mxPoint x="480" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-51" value="Recuperar Password con correo electronico" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OyTFGZdnnPIG9FxTgaTx-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="480" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
